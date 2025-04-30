@@ -32,7 +32,7 @@ Event Planner is a web-based tool that helps users organize and manage events su
 
 - Member 1: Lan Yang
 - Member 2: Nihui Shao
-- Member 3: Pooja gollapalli
+- Member 3: Ramakrishnan Subramanian Usha
 
 ## Getting Started
 
